@@ -917,3 +917,7 @@ docker-compose down
 ## License
 
 MIT
+
+## Fix for Issue #205: Deployment runbook not available
+
+Create a deployment runbook covering environment setup, migration steps, rollback procedures, and smoke tests. New team members have no deployment guidance.
